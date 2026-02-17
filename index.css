@@ -11,7 +11,7 @@ img {
 }
 
 .logo {
-  background-image: url(logoo.png);
+  background-image: url(assets/logoo.png);
   background-size: cover;
   width: 11rem;
   height: 45px;
@@ -20,7 +20,7 @@ img {
 
 .start-header {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(bg.jpg);
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(assets/bg.jpg);
   background-size: cover;
   background-position: center;
   min-height: 900px;
@@ -715,8 +715,8 @@ nav a {
 
 .bg-img {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(bggg.jpg),
-    url(bgg.png);
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(assets/bggg.jpg),
+    url(assets/bgg.png);
   background-size: 50% 100%;
   background-position:
     left center,
@@ -1069,7 +1069,7 @@ hr {
   height: 350px;
   border-radius: 15px;
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(lg.jpg);
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/lg.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -1162,7 +1162,7 @@ footer {
 }
 
 .line-logo {
-  background-image: url(logoo.png);
+  background-image: url(assets/logoo.png);
   background-size: cover;
   width: 170px;
   height: 45px;
@@ -1192,7 +1192,7 @@ footer {
 
 header.nextPage {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(mask.png);
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(assets/mask.png);
   background-size: cover;
   height: 760px;
 }
@@ -1753,7 +1753,7 @@ header.nextPage {
   height: 350px;
   border-radius: 15px;
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(lg.jpg);
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/lg.jpg);
   background-size: cover;
   background-position: center;
   border-radius: var(--r);
@@ -1777,7 +1777,7 @@ header.nextPage {
 
 .luxury-header {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(lu-bg.png);
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(assets/lu-bg.png);
   background-size: cover;
   height: 600px;
 }
@@ -1940,7 +1940,7 @@ a {
 
 .studio-header {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(new.png);
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(assets/new.png);
   background-size: cover;
   height: 600px;
 }
@@ -1979,14 +1979,14 @@ a {
 }
 
 .h2 {
-  background-image: url(tcb-bg.jpg);
+  background-image: url(assets/tcb-bg.jpg);
 }
 
 .taking {
   width: 100%;
   height: auto;
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(r-1.png);
+    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(assets/r-1.png);
   background-size: cover;
   background-position: center;
 }
@@ -2035,7 +2035,7 @@ a {
 }
 
 .pricing {
-  background-image: url(tcb-bg.jpg);
+  background-image: url(assets/tcb-bg.jpg);
   padding: 20px;
 }
 
@@ -2118,7 +2118,7 @@ a {
 
 .about-header {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(8.jpg);
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(assets/8.jpg);
   background-size: cover;
   height: 600px;
 }
@@ -2126,7 +2126,7 @@ a {
 .art {
   background-image:
     linear-gradient(134deg, rgba(0, 0, 0, 1.9), rgba(0, 0, 0, 0.8)),
-    url(art.png);
+    url(assets/art.png);
   background-size: cover;
   height: 250px;
 }
@@ -2232,14 +2232,14 @@ a {
 }
 
 .swim {
-  background-image: url(ma-2.png);
+  background-image: url(assets/ma-2.png);
   background-size: cover;
   background-position: center;
   height: 400px;
   margin-top: 40px;
 }
 .swim-change {
-  background-image: url(r-1.png);
+  background-image: url(assets/r-1.png);
   background-size: cover;
   background-position: center;
   height: 400px;
@@ -2326,7 +2326,7 @@ a {
 .globe-img {
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff8c 34.56%),
-    url(globe.png);
+    url(assets/globe.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -2337,7 +2337,7 @@ a {
 
 .people-header {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(ph.png);
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(assets/ph.png);
   background-size: cover;
   background-position: center;
 
@@ -2345,7 +2345,7 @@ a {
 }
 .service-header {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(f-1.jpg);
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(assets/f-1.jpg);
   background-size: cover;
   background-position: center;
 
@@ -2353,7 +2353,7 @@ a {
 }
 .inter-header {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(l-2.jpg);
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(assets/l-2.jpg);
   background-size: cover;
   background-position: center;
   height: 600px;
@@ -2387,7 +2387,7 @@ a {
 .art-change {
   background-image:
     linear-gradient(180deg, rgba(0, 0, 0, 0.85) 0%, rgba(0, 0, 0, 0.9) 0%),
-    url(Mask\ group.png);
+    url(assets/Mask\ group.png);
   background-size: cover;
 }
 
